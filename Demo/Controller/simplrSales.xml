@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<String>
+	<SolutionName>WMS</SolutionName>
+	<GetURL>http://simplrdb.southeastasia.cloudapp.azure.com/SimplrRADJSONService/Service.svc</GetURL>
+	<PostURL>http://simplrdb.southeastasia.cloudapp.azure.com/SimplrRADSalesService/Transservice.asmx</PostURL>
+	<DBSyncURL>http://simplrdb.southeastasia.cloudapp.azure.com/SimplrRADSalesSync/Service.asmx</DBSyncURL>
+	<DBPathURL>http://simplrdb.southeastasia.cloudapp.azure.com/SimplrRADSalesSync/Data/</DBPathURL>
+</String>
